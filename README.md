@@ -6,4 +6,4 @@ A compilation of notes and exercise solutions related to the book Discrete Mathe
 
 Links to resources listed in the book:
 
-- [Online Learning Center](www.mhhe.com/rosen)
+- [Online Learning Center](https://highered.mheducation.com/sites/125967651x/information_center_view0/index.html)
